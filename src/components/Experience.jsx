@@ -18,12 +18,12 @@ function Experience() {
                             <span className="font-normal text-gray-300">/ Karanganyar</span>
                         </p>
                         <p className="font-semibold text-gray-600 text-base">
-                            Binaqu Academy{" "}
-                            <span className="font-normal text-gray-300">/ Palangkaraya</span>
+                            LDK FOKAMM{" "}
+                            <span className="font-normal text-gray-300">/ Solo</span>
                         </p>
                         <p className="font-semibold text-gray-600 text-base">
-                            Kursus Bahasa Arab Al Muyassar{" "}
-                            <span className="font-normal text-gray-300">/ Palembang</span>
+                            Binaqu Academy{" "}
+                            <span className="font-normal text-gray-300">/ Palangkaraya(Only)</span>
                         </p>
                     </div>
                     <div className="hidden lg:flex flex-col space-y-8 md:space-y-16">
@@ -34,7 +34,7 @@ function Experience() {
                             Admin
                         </p>
                         <p className="font-normal text-gray-400 text-base">
-                            Designer
+                            The head of the da'wah (proselytizing) department
                         </p>
                         <p className="font-normal text-gray-400 text-base">
                             Designer
@@ -45,8 +45,8 @@ function Experience() {
                             Year
                         </h6>
                         <p className="font-normal text-gray-400 text-base">2024 - now</p>
+                        <p className="font-normal text-gray-400 text-base">2022 - 2024</p>
                         <p className="font-normal text-gray-400 text-base">2020 - now</p>
-                        <p className="font-normal text-gray-400 text-base">2020 - 2021</p>
 
                     </div>
                 </div>

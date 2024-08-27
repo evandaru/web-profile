@@ -24,7 +24,7 @@ function Portfolio() {
                                     </a>
                                 </h1>
                                 <p className="font-normal text-gray-500 text-sm md:text-base">
-                                    Sebuah generator API dummy data yang terdokumentasi, gratis untuk digunakan, untuk memudahkan proses pengujian bagian front-end proyek.
+                                    Website AI generatif yang menggunakan model Gemini 1.5 Pro untuk menghasilkan konten.
                                 </p>
                             </div>
                         </div>
@@ -40,7 +40,7 @@ function Portfolio() {
                                     </h1>
                                 </a>
                                 <p className="font-normal text-gray-500 text-sm md:text-base">
-                                    Bot Telegram yang memungkinkan pengguna untuk melakukan operasi CRUD langsung dari chat, membantu mempercepat workflow.
+                                    Bot untuk operasi CRUD, download video dari YouTube, dan AI generatif menggunakan Groq.
                                 </p>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ function Portfolio() {
                                     </h1>
                                 </a>
                                 <p className="font-normal text-gray-500 text-sm md:text-base">
-                                    Aplikasi web untuk pengelolaan donasi yang terintegrasi dengan Notion sebagai basis datanya, memudahkan pelaporan dan manajemen dana.
+                                    Website untuk informasi hasil donasi Ramadhan yang dibuat dengan Vite.js dan terhubung dengan database Notion.
                                 </p>
                             </div>
                         </div>
