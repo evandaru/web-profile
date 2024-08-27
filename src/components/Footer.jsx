@@ -17,8 +17,7 @@ const Footer = () => {
                         <a href="#" className="hover:underline">Github</a>
                         <a href="#" className="hover:underline">Instagram</a>
                         <a href="#" className="hover:underline">Linkedin</a>
-                        <a href="#" className="hover:underline">blog</a>
-                        <a href="#" className="hover:underline">X/Twitter</a>
+
                     </div>
                 </div>
             </div>
