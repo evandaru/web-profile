@@ -23,7 +23,7 @@ function Experience() {
                         </p>
                         <p className="font-semibold text-gray-600 text-base">
                             Binaqu Academy{" "}
-                            <span className="font-normal text-gray-300">/ Palangkaraya(Only)</span>
+                            <span className="font-normal text-gray-300">/ Palangkaraya(Online)</span>
                         </p>
                     </div>
                     <div className="hidden lg:flex flex-col space-y-8 md:space-y-16">
