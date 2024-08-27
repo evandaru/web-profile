@@ -2,7 +2,7 @@ import Navbar from "./Navbar"
 
 function Header() {
     return (
-        <section className="py-10 md:py-16">
+        <section className="py-10 md:py-10">
             <div className="container max-w-screen-xl mx-auto px-4">
                 <Navbar />
                 <div className="text-center">
@@ -13,7 +13,7 @@ function Header() {
                         Fauzan Hasyim
                     </h6>
                     <h1 className="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">
-                        Fullstack Developer
+                        Website Developer
                     </h1>
                     <p className="font-normal text-gray-600 text-md md:text-xl mb-16">
                         I have a passion for software. I enjoy creating tools that make life
